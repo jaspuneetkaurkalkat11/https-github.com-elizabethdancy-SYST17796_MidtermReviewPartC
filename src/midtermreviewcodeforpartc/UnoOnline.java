@@ -3,6 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// My name is Anisha Bansal.
+
+
 package midtermreviewcodeforpartc;
 
 import java.util.Scanner;
