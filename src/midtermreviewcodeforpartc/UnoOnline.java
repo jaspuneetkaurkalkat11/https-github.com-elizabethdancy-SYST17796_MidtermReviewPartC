@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// I am 18 years old.
+//i am doing computer programming.
+// I am studying in sheridan college.
+
 package midtermreviewcodeforpartc;
 
 import java.util.Scanner;
