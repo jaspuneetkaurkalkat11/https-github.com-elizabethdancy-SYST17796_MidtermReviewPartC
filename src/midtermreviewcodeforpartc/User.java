@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// i am studying in sheridan college.
+
 package midtermreviewcodeforpartc;
 
 /**
