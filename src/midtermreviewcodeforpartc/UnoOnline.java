@@ -14,8 +14,7 @@ import java.util.Scanner;
  * of possible users. To be used as the beginning code for MidtermReview C.
  *@author Jaspuneet kaur kalkat, Student ID 991718516
  */
-public class UnoOnline 
-{
+public class UnoOnline {
     private User users[] = new User[100];//room for 100 online players!
      
     /**
@@ -23,8 +22,7 @@ public class UnoOnline
      * main functionality.
      * @param args - not used
      */
-    public static void main(String[] args) 
-     {
+    public static void main(String[] args) {
        UnoOnline newPortal = new UnoOnline();
        newPortal.run();
     }
